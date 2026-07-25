@@ -1,0 +1,7 @@
+# IDE / System files
+.idea/
+.vscode/
+*.log
+*.class
+
+Week8_Git/*/gitdemo
